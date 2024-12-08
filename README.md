@@ -25,8 +25,8 @@ Hello, visitor! I'm **[MaxX]**, a cybersecurity enthusiast specializing in **Red
 
 ## 🌐 Connect with Me  
 
-- **GitHub**: [Your GitHub Profile](https://github.com/maxwallace389)  
-- **Twitter**: [@YourTwitterHandle](https://x.com/MaxxWallacce)  
+- **GitHub**: [My GitHub Profile](https://github.com/maxwallace389)  
+- **Twitter**: [@MyTwitterHandle](https://x.com/MaxxWallacce)  
 - **Discord**: *max_wallace*  
 
 ---
