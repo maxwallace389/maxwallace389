@@ -42,5 +42,3 @@ Do you need custom tools or want to collaborate on a project? I’m always open 
 ## 💻 Hacker’s Creed  
 
 > *"Hacking is not about breaking and entering. It's about unlocking and securing the infinite possibilities of technology."*  
-
----
