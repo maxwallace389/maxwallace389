@@ -17,6 +17,8 @@ Hello, visitor! I'm **[MaxX]**, a cybersecurity enthusiast specializing in **Red
 
 ---
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maxwallace389&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+
 ## 🚀 Featured Repositories  
 
 🔸 [**Breaver**](https://github.com/YourGitHub/Breaver): A tool to scan, track, and interact with Bluetooth devices in real time, featuring a radar-like GUI.  
