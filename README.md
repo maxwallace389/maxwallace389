@@ -37,8 +37,31 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maxwallace389/maxwallace389/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maxwallace389/maxwallace389/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
+
+## 🚀 What I Do
+
+- **Hacking Tools Development**:  
+  I design and deploy tools for tasks traffic spoofing, device hijacking, and more.
+  
+- **Ethical Hacking Services**:  
+  Providing penetration testing, vulnerability assessments, and red teaming services to clients.
+
+- **Research & Development**:  
+  Constantly exploring new attack vectors and innovative techniques for red team operations.
+
+---
+
+## 🔥 Let’s Collaborate  
+
+Do you need custom tools or want to collaborate on a project? I’m always open to working with fellow cybersecurity enthusiasts. Drop me a message, and let’s build something epic together!
+
+---
+
+## 💻 Hacker’s Creed  
+
+> *"Hacking is not about breaking and entering. It's about unlocking and securing the infinite possibilities of technology."*
